@@ -1,0 +1,1 @@
+sudo cp /imez-project/conf/httpd.conf /private/etc/apache2/httpd.conf
